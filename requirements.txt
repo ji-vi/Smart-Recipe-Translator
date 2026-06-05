@@ -1,8 +1,0 @@
-streamlit
-googletrans==4.0.0-rc1
-tensorflow
-pandas
-numpy
-requests
-fpdf
-gTTS
