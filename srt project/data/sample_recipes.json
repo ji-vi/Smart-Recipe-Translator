@@ -1,0 +1,39 @@
+{
+  "Pasta Alfredo": {
+    "ingredients": [
+      "200g pasta",
+      "100ml cream",
+      "50g cheese",
+      "1 tbsp butter"
+    ],
+    "steps": [
+      "Boil the pasta until soft.",
+      "Prepare Alfredo sauce with cream and cheese.",
+      "Mix pasta with sauce and serve hot."
+    ]
+  },
+  "Dosa": {
+    "ingredients": [
+      "1 cup rice",
+      "1/2 cup urad dal",
+      "Salt to taste"
+    ],
+    "steps": [
+      "Soak rice and dal separately for 6 hours.",
+      "Grind into a smooth batter.",
+      "Spread on pan and cook both sides."
+    ]
+  },
+  "Burger": {
+    "ingredients": [
+      "2 burger buns",
+      "1 patty",
+      "Cheese, lettuce, and sauce"
+    ],
+    "steps": [
+      "Grill the patty until cooked.",
+      "Assemble burger with buns, patty, cheese, and veggies.",
+      "Serve hot."
+    ]
+  }
+}

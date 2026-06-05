@@ -1,0 +1,22 @@
+{
+    "default_language": "en",
+    "supported_languages": ["en", "hi", "mr"],
+    "ui_text": {
+        "title": "Smart Recipe Translator",
+        "subtitle": "Upload an image or enter a dish name to get its recipe and translation!",
+        "upload_option": "📷 Upload Image",
+        "text_option": "📝 Enter Dish Name",
+        "upload_placeholder": "Upload a dish image",
+        "text_placeholder": "e.g., Pasta Alfredo",
+        "toggle_recipe": "🌍 Translate Recipe",
+        "predicted_dish": "Predicted Dish",
+        "dish_selected": "Dish Selected",
+        "original_recipe": "🧾 Original Recipe",
+        "translated_recipe": "🌍 Translated Recipe",
+        "download_section": "📄 Download Recipe",
+        "generate_pdf": "💾 Generate PDF",
+        "downloading": "⬇️ Click to Download Recipe PDF",
+        "get_started": "Please upload an image or enter a dish name to get started.",
+        "footer_text": "Developed by Jivi"
+    }
+}
